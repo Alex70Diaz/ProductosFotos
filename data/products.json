@@ -339,7 +339,7 @@
     "gender": "Mujer",
     "category": "Jeans",
     "reference": 2312,
-    "image": "/products/CargoCuerina1Flecos.jpg",
+    "image": "/products/CargoCuerina1.jpg",
     "price": 60000
   },{
     "id": 43,
@@ -351,7 +351,7 @@
     "price": 65000
   },{
     "id": 44,
-    "name": "20029",
+    "name": "Talla Plus",
     "gender": "Mujer",
     "category": "Jeans",
     "reference": 20029,
