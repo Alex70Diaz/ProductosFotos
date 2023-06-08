@@ -337,7 +337,7 @@
     "id": 42,
     "name": "Cargo Cuerina",
     "gender": "Mujer",
-    "category": "Jeans",
+    "category": "Chaqueta",
     "reference": 2312,
     "image": "/products/CargoCuerina1.jpg",
     "price": 60000
@@ -345,8 +345,8 @@
     "id": 43,
     "name": "Chaqueta Just Love Pedreria",
     "gender": "Mujer",
-    "category": "Jeans",
-    "reference": 23164,
+    "category": "Chaqueta",
+    "reference": 20029,
     "image": "/products/ChaquetaLove.jpg",
     "price": 65000
   },{
@@ -354,8 +354,16 @@
     "name": "Talla Plus",
     "gender": "Mujer",
     "category": "Jeans",
-    "reference": 20029,
-    "image": "/products/ChaquetaLove.jpg",
+    "reference": 60106,
+    "image": "/products/60106.png",
+    "price": 75000
+  },{
+    "id": 45,
+    "name": "Talla Plus",
+    "gender": "Mujer",
+    "category": "Jeans",
+    "reference": 60107,
+    "image": "/products/60107.png",
     "price": 65000
   }
 ]
